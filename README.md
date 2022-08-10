@@ -29,3 +29,12 @@ In Codelab MDC 103 I update the home page design by modifying:
 
 <img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab103a.jpg" width="400">
 <img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab103b.jpg" width="400">
+
+In Codelab MDC 104 I change the UI in the Shrine app to a two-level presentation called a "backdrop". The backdrop includes a menu that lists selectable categories used to filter the products shown in the asymmetrical grid. In this codelab, I use the following Flutter components:
+
+- Shape
+- Motion
+- Flutter widgets (that you've used in the previous codelabs)
+
+<img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab104a.jpg" width="400">
+<img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab104b.jpg" width="400">
