@@ -11,3 +11,10 @@ In Codelab MDC 101 I built a login page for the Shrine app that contains:
 - Two buttons ("Cancel" and "Next")
 
 <img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab101.jpg" width="400">
+
+In Codelab MDC 102 I built the home page for Shrine that contains:
+
+- A top app bar
+- A grid list full of products
+
+<img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab102.jpg" width="400">
