@@ -18,3 +18,14 @@ In Codelab MDC 102 I built the home page for Shrine that contains:
 - A grid list full of products
 
 <img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab102.jpg" width="400">
+
+In Codelab MDC 103 I update the home page design by modifying:
+
+- Color
+- Typography
+- Elevation
+- Shape
+- Layout
+
+<img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab103a.jpg" width="400">
+<img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab103b.jpg" width="400">
