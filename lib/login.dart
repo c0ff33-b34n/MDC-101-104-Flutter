@@ -40,7 +40,6 @@ class _LoginPageState extends State<LoginPage> {
             ),
             const SizedBox(height: 120.0),
             // TODO: Remove filled: true values (103)
-            // TODO: Add TextField widgets (101)
             TextField(
               decoration: const InputDecoration(
                 filled: true,
@@ -54,8 +53,20 @@ class _LoginPageState extends State<LoginPage> {
                 labelText: 'Password',
               ),
               obscureText: true,
-            )
-            // TODO: Add button bar (101)
+            ),
+            OverflowBar(
+              alignment: MainAxisAlignment.end,
+              children: [
+                TextButton(
+                  child: const Text('CANCEL'),
+                  onPressed: () {},
+                ),
+                ElevatedButton(
+                  child: const Text('NEXT'),
+                  onPressed: () {},
+                ),
+              ],
+            ),
           ],
         ),
       ),
