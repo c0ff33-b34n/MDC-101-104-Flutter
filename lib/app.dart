@@ -48,7 +48,7 @@ ThemeData _buildShrineTheme() {
     colorScheme: base.colorScheme.copyWith(
       primary: kShrinePink100,
       onPrimary: kShrineBrown900,
-      onSecondary: kShrineBrown900,
+      secondary: kShrineBrown900,
       error: kShrineErrorRed,
     ),
     inputDecorationTheme: const InputDecorationTheme(
