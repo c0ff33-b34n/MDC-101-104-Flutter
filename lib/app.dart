@@ -51,6 +51,18 @@ ThemeData _buildShrineTheme() {
       onSecondary: kShrineBrown900,
       error: kShrineErrorRed,
     ),
+    inputDecorationTheme: const InputDecorationTheme(
+      border: OutlineInputBorder(),
+      focusedBorder: OutlineInputBorder(
+        borderSide: BorderSide(
+          width: 2.0,
+          color: kShrineBrown900,
+        ),
+      ),
+      floatingLabelStyle: TextStyle(
+        color: kShrineBrown900,
+      ),
+    ),
     textTheme: _buildShrineTextTheme(base.textTheme),
     textSelectionTheme: const TextSelectionThemeData(
       selectionColor: kShrinePink100,
