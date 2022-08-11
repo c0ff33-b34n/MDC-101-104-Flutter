@@ -37,5 +37,8 @@ In Codelab MDC 104 I change the UI in the Shrine app to a two-level presentation
 - Shape
 - Motion
 
+Tapping the menu button slides down the product display and animates the custom menu/logo icon, allowing you to select from different product categories.
+Selecting a category slides the product page back into view. Tapping the white area at the top of the product page also slides the products down to reveal the menu.
+
 <img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab104a.jpg" width="400">
 <img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab104b.jpg" width="400">
