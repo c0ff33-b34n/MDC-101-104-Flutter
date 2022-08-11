@@ -8,7 +8,8 @@ In Codelab MDC 101 I built a login page for the Shrine app that contains:
 - An image of Shrine's logo
 - The name of the app (Shrine)
 - Two text fields, one for entering a username and the other for a password
-- Two buttons ("Cancel" and "Next")
+- Two buttons ("Cancel" and "Next").
+The login screen is purely to demonstrate design and does not process any usernames and passwords. Tapping Next will take you to the main app page.
 
 <img src="https://github.com/c0ff33-b34n/MDC-101-104-Flutter/blob/master/codelab101.jpg" width="400">
 
