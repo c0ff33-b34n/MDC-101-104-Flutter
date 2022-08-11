@@ -46,11 +46,9 @@ class _ShrineAppState extends State<ShrineApp> {
       initialRoute: '/login',
       routes: {
         '/login': (BuildContext context) => const LoginPage(),
-        // TODO: Change to a Backdrop with a HomePage frontLayer (104)
         '/': (BuildContext context) => Backdrop(
             currentCategory: _currentCategory,
-            // TODO: Pass _currentCategory for frontLayer (104)
-            frontLayer: HomePage(),
+            frontLayer: HomePage(category: _currentCategory),
             backLayer: CategoryMenuPage(
               currentCategory: _currentCategory,
               onCategoryTap: _onCategoryTap,
